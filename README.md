@@ -3,7 +3,8 @@
 This project was carried in the framework of Telecom Paris for a course evaluation about data manipulation with Python.
 The aim is to extract, visualize and analyze data related to the 2020-2021 Vendée Globe race.
 
-The code written in Python 3 is avalaible in the notebook [Projet](Projet.ipynb)
+The code written in Python 3 is avalaible in the notebook [Projet](Projet.ipynb).
+
 Here are the main steps.
 
 ## A) Extract and pre-processing data
@@ -21,6 +22,8 @@ As a preliminary step before using machine learning algorithms, data are visuali
 
 Visualization of skippers positions and trajectories on Earth is also developed in the notebook (thanks to the Python graphic library Plotly). Besides, this map is up-to-date, as Excel files (including skippers' latitude and longitude) are uploaded every 15 minutes on the website.
 ![Carte](Images/Carte_skippers.png)
+
+Please refer to the notebook [Projet](Projet.ipynb) for more details about this part.
 
 ## C) Machine Learning algorithms
 
