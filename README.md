@@ -20,7 +20,7 @@ As a preliminary step before using machine learning algorithms, data are visuali
 ![Rank_speed](Images/Rang_Vitesse.PNG)
 
 Visualization of skippers positions and trajectories on Earth is also developed in the notebook (thanks to the Python graphic library Plotly). Besides, this map is up-to-date, as Excel files (including skippers' latitude and longitude) are uploaded every 15 minutes on the website.
-![Carte](Images/Carte.png)
+![Carte](Images/Carte_skippers.png)
 
 ## C) Machine Learning algorithms
 
