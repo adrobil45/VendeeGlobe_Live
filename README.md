@@ -17,10 +17,10 @@ Data are then cleaned and merged in a dataframe.
 ## B) Data exploration, visualization and correlations
 
 As a preliminary step before using machine learning algorithms, data are visualized and explored through simple methods. Here is the correlation between speed and ranking:
-[Rank_speed](Images/Rang_Vitesse.png)
+![Rank_speed](Images/Rang_Vitesse.PNG)
 
 Visualization of skippers positions and trajectories on Earth is also developed in the notebook (thanks to the Python graphic library Plotly). Besides, this map is up-to-date, as Excel files (including skippers' latitude and longitude) are uploaded every 15 minutes on the website.
-[Carte](Images/Carte.png)
+![Carte](Images/Carte.png)
 
 ## C) Machine Learning algorithms
 
